@@ -429,7 +429,7 @@ export const projects = [
         "Firebase",
       ],
     category: "web app",
-    github: "",
+    github: "https://github.com/shafiqulislamsagor/MS-Medicine",
     webapp: "https://sm-medicine.web.app/",
   },
   // {
