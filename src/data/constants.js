@@ -11,8 +11,8 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/shafiqulislamsagor",
   resume:
-    "https://orange-emmeline-14.tiiny.site/",
-  linkedin: "https://www.linkedin.com/in/shafiqulislamsagor/",
+    "https://drive.google.com/file/d/1tabTFdE_3NXXn2pVCoUIA360ExcVwYTw/view",
+  linkedin: "https://www.linkedin.com/in/mdshafiqulislamsagor/",
   twitter: "https://x.com/sagor220277sm",
   insta: "https://www.instagram.com/sagor__220277/",
   facebook: "https://www.facebook.com/sagor220277",
